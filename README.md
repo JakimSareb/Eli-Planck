@@ -9,6 +9,9 @@ Download compiled firmware from the Actions tab. <https://zmk.dev/docs/user-setu
 Edit your keymap <https://zmk.dev/docs/keymaps>.
 User keymap is located at [`config/eli_planck.keymap`](config/eli_planck.keymap).
 
+Firmware built with <https://shield-wizard.genteure.workers.dev>
+
+![Schemmatics](.github/eli-planck.png)
 -----
 
 <details>
