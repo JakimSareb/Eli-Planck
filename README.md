@@ -11,7 +11,7 @@ User keymap is located at [`config/eli_planck.keymap`](config/eli_planck.keymap)
 
 Firmware built with <https://shield-wizard.genteure.workers.dev>
 
-![Schemmatics](.github/Eli-Planck.png)
+![Schemmatics](Eli-Planck.png)
 -----
 
 <details>
